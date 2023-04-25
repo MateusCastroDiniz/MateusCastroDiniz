@@ -1,12 +1,12 @@
 # Hi, there! "It's me... Mateus Diniz"
 
 ## About me :D
-- 💬 I'm specializing myself on the new market to fullstack jobs.
+- 💬 I'm specializing in new market for fullstack jobs.
 - 🌱 I live and was born in Brazil!!!
 - ⚡ I'm an buliding technician
-- 📫 Currently I'm working on mechanical design and front-end develop as freelancer.
-- 😄 I'm learning Japanese and speak 3 other languages.
-- 🔭 Right now I'm looking for other people interested on learning new 
+- 📫 I'm currently working on mechanical design and front-end development as freelancer.
+- 😄 I'm learning Japanese and I speak 3 other languages.
+- 🔭 I'm currently looking for people interested on learn new leanguages (machine or human languages :D)
 
 ## Contact
 - <a href="https://www.instagram.com/mateusdiniz.s/">Instagram</a>
