@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💬 I'm specializing myself for fullstack jobs.<br>- 🌱 I live and was born in Brazil!!!<br>- ⚡ I'm an buliding technician <br>- 📫 I'm currently looking for a new job in tech.<br>- 😄 I'm learning Japanese and I speak 3 other languages (Portugese, English and Spanish).<br>- 🔭 I'm currently looking for a place where I can apply my abilities in tech.
+- 💬 Right now I'm improving myself as a software engineer!<br>- ⚡ I'm a technician of buildings by CEEP Dr. R. Pereira dos Santos. <br>- 🌱 I live and was born in Brazil!!!<br>- 📫 I'm currently looking for a new job.<br>- 😄 I'm learning Japanese and I speak 3 other languages (Portugese, English and Spanish).<br>- 🔭 I'm currently looking for a place where I can apply my abilities in tech.
 
 
 ## 🌐 Socials:
